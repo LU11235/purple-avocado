@@ -1,3 +1,7 @@
 plugins:
   - jekyll-remote-theme
 remote_theme: vszhub/not-pure-poole
+title: Lulu的个人主页
+description: 欢迎来到我的个人主页！
+github_username: LU11235
+use_math: true
